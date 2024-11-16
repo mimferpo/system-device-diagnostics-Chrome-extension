@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "system-device diagnostics",
+    "description": "current state of the device, including its capabilities, resources, and external environment",
+    "version": "1.0",
+    "permissions": [
+      "activeTab",
+      "geolocation"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "host_permissions": [
+      "http://*/*",
+      "https://*/*"
+    ]
+  }
+  
