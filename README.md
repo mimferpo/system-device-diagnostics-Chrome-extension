@@ -2,6 +2,8 @@
 
 A Chrome extension that retrieves and displays comprehensive device diagnostics, including system, network, geolocation, hardware, and more. Users can also export this information as a .txt file for further analysis or sharing.
 
+https://github.com/user-attachments/assets/e4f7a0e7-8fbc-4fa3-be42-9dc3b52d5fbc
+
 ## Features
 
 - **Device Information**:
